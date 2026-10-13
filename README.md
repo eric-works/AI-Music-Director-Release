@@ -36,6 +36,15 @@ AI Music Director (IMD) is designed for AI Covers and virtual singer production.
 
 ---
 
+### 🖥 Customizable User Interface
+
+- Resize and rearrange panels freely
+- Dock, float, or hide windows as needed
+- Build a workspace that matches your workflow
+- Optimize layouts for training, arranging, and mixing tasks
+
+---
+
 ## Design Philosophy
 
 IMD is a **Music Director**, not a **Music Autopilot**.
@@ -136,6 +145,15 @@ AI Music Director (IMD) 專為 AI Cover 與虛擬歌手創作而設計，透過�
 - 按需下載 AI 執行環境
 - 降低安裝包體積
 - 安裝後可離線運作
+
+---
+
+### 🖥 可自訂使用者介面
+
+- 自由調整面板位置與大小
+- 支援停駐、浮動與隱藏視窗
+- 建立符合個人習慣的工作空間
+- 針對訓練、編曲與混音流程最佳化配置
 
 ---
 
