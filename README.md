@@ -4,8 +4,16 @@ Timeline-based Music Director for Virtual Singers
 
 AI Music Director (IMD) is designed for AI Covers and virtual singer production. It allows creators to arrange multiple virtual singers on a timeline while maintaining full creative control.
 
-Quick Demo
-https://github.com/user-attachments/assets/9d6e753b-2fbb-48fa-b965-67fcd6a0f338
+Quick Demo https://github.com/user-attachments/assets/9d6e753b-2fbb-48fa-b965-67fcd6a0f338
+
+## Workflow Overview
+
+- Create Song <img width="1920" height="1032" alt="01-Create Song" src="https://github.com/user-attachments/assets/48772d0b-4dee-450c-b7a2-1f7ccf1329d7" />
+- Create Model <img width="1920" height="1032" alt="02-Create Model" src="https://github.com/user-attachments/assets/4d918116-2b6f-4783-9c82-16c94299eba6" />
+- Train Model <img width="1920" height="1032" alt="03-Train Model" src="https://github.com/user-attachments/assets/bdb6c664-39b1-476b-a50c-8f2969d1a73d" />
+- Create AI Cover <img width="1920" height="1032" alt="04-Create AI Cover" src="https://github.com/user-attachments/assets/d3619265-e0c5-466d-9b77-753075681889" />
+- Assign Different Singers <img width="1920" height="1032" alt="05-Assign Different Singers" src="https://github.com/user-attachments/assets/46ef6291-4531-4dde-bca5-a742ef53a3ea" />
+- Runtime Manager <img width="1920" height="1032" alt="06-Runtime Manager" src="https://github.com/user-attachments/assets/364cc465-2833-4256-b4ad-a44cb18597d8" />
 
 ---
 
@@ -42,17 +50,6 @@ https://github.com/user-attachments/assets/9d6e753b-2fbb-48fa-b965-67fcd6a0f338
 - Dock, float, or hide windows as needed
 - Build a workspace that matches your workflow
 - Optimize layouts for training, arranging, and mixing tasks
-
----
-
-## Workflow Overview
-
-- Create Song <img width="1920" height="1032" alt="01-Create Song" src="https://github.com/user-attachments/assets/48772d0b-4dee-450c-b7a2-1f7ccf1329d7" />
-- Create Model <img width="1920" height="1032" alt="02-Create Model" src="https://github.com/user-attachments/assets/4d918116-2b6f-4783-9c82-16c94299eba6" />
-- Train Model <img width="1920" height="1032" alt="03-Train Model" src="https://github.com/user-attachments/assets/bdb6c664-39b1-476b-a50c-8f2969d1a73d" />
-- Create AI Cover <img width="1920" height="1032" alt="04-Create AI Cover" src="https://github.com/user-attachments/assets/d3619265-e0c5-466d-9b77-753075681889" />
-- Assign Different Singers <img width="1920" height="1032" alt="05-Assign Different Singers" src="https://github.com/user-attachments/assets/46ef6291-4531-4dde-bca5-a742ef53a3ea" />
-- Runtime Manager <img width="1920" height="1032" alt="06-Runtime Manager" src="https://github.com/user-attachments/assets/364cc465-2833-4256-b4ad-a44cb18597d8" />
 
 ---
 
