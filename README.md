@@ -81,8 +81,11 @@ You decide:
 ## Download
 
 Latest version available in:
-
 👉 Releases
+👉 IMD-Portable-20XXXXXX-Beta.zip (79 MB)
+Note:
+Please download the portable package above.
+"Source code (zip)" and "Source code (tar.gz)" do not contain the runnable application.
 
 ---
 
@@ -194,8 +197,10 @@ IMD 是一位「Music Director（音樂導演）」，
 ## 下載
 
 最新版請至：
-
 👉 Releases
+👉 IMD-Portable-20XXXXXX-Beta.zip (79 MB)
+請下載上方 Portable 壓縮檔。
+「Source code (zip)」與「Source code (tar.gz)」不包含可直接執行的程式。
 
 ---
 
