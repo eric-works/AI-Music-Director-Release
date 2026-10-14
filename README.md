@@ -81,6 +81,7 @@ You decide:
 ## Download
 
 Latest version available in:
+
 👉 Releases
 
 👉 IMD-Portable-20XXXXXX-Beta.zip (79 MB)
@@ -201,6 +202,7 @@ IMD 是一位「Music Director（音樂導演）」，
 ## 下載
 
 最新版請至：
+
 👉 Releases
 
 👉 IMD-Portable-20XXXXXX-Beta.zip (79 MB)
