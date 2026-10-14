@@ -4,9 +4,8 @@ Timeline-based Music Director for Virtual Singers
 
 AI Music Director (IMD) is designed for AI Covers and virtual singer production. It allows creators to arrange multiple virtual singers on a timeline while maintaining full creative control.
 
-🎬 Quick Demo
-Watch the complete IMD workflow in 40 seconds.
-<video https://github.com/user-attachments/assets/9d6e753b-2fbb-48fa-b965-67fcd6a0f338 />
+🎬 Quick Demo (39 seconds)
+https://github.com/user-attachments/assets/9d6e753b-2fbb-48fa-b965-67fcd6a0f338
 <img width="1920" height="1032" alt="05-Assign Different Singers" src="https://github.com/user-attachments/assets/46ef6291-4531-4dde-bca5-a742ef53a3ea" />
 
 ## Workflow Overview
