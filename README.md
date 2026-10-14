@@ -111,14 +111,7 @@ Current Status: **Beta**
 Features and user interface may change during development.
 
 ---
-
-## Screenshots
-
-Coming Soon...
-
----
-
-© 2026 Eric Liao
+© 2026 Eric Works
 
 ============================
 
@@ -223,13 +216,6 @@ IMD 是一位「Music Director（音樂導演）」，
 功能與介面仍可能持續調整。
 
 ---
-
-## 截圖
-
-Coming Soon...
-
----
-
-© 2026 Eric Liao
+© 2026 Eric Works
 
 
