@@ -86,6 +86,14 @@ Latest version available in:
 
 ---
 
+## Feedback
+
+Feedback is always welcome.
+
+If you find a bug, have an idea, or just want to share your thoughts, please open an Issue.
+
+---
+
 ## Disclaimer
 
 Users are responsible for ensuring they have the appropriate rights and permissions for:
@@ -188,6 +196,14 @@ IMD 是一位「Music Director（音樂導演）」，
 最新版請至：
 
 👉 Releases
+
+---
+
+## 意見回饋
+
+歡迎提供任何意見回饋。
+
+如果發現問題、有新功能想法，或只是想分享使用心得，都歡迎至 Issues 留言。
 
 ---
 
