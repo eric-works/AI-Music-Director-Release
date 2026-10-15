@@ -7,6 +7,7 @@ AI Music Director (IMD) is designed for AI Covers and virtual singer production.
 🎬 Quick Demo (39 seconds)
 https://github.com/user-attachments/assets/057ef7c9-c97e-44ca-8f5c-ebd038bee85e
 <img width="1920" height="1032" alt="05-Assign Different Singers-3" src="https://github.com/user-attachments/assets/8a586c0c-0b93-438a-bdd2-430f06b7d0da" />
+Multi-track arrangements for duets, harmonies, and layered vocals.
 
 ## Workflow Overview
 - Create Song <img width="1920" height="1032" alt="01-Create Song" src="https://github.com/user-attachments/assets/48772d0b-4dee-450c-b7a2-1f7ccf1329d7" />
