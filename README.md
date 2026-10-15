@@ -136,6 +136,8 @@ Features and user interface may change during development.
 
 AI Music Director (IMD) 專為 AI Cover 與虛擬歌手創作而設計，透過時間軸工作流程編排多位虛擬歌手，讓創作者保有完整的創作主導權。
 
+支援多軌編排，輕鬆打造合唱、和聲與疊唱效果。
+
 ---
 
 ## 主要功能
