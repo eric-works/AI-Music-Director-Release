@@ -5,15 +5,15 @@ Timeline-based Music Director for Virtual Singers
 AI Music Director (IMD) is designed for AI Covers and virtual singer production. It allows creators to arrange multiple virtual singers on a timeline while maintaining full creative control.
 
 🎬 Quick Demo (39 seconds)
-https://github.com/user-attachments/assets/244342fa-6fe2-4e83-a11b-34b62eab8075
-<img width="1920" height="1032" alt="05-Assign Different Singers-2" src="https://github.com/user-attachments/assets/38b5672e-25fe-4b6f-adc7-78641672e513" />
+https://github.com/user-attachments/assets/057ef7c9-c97e-44ca-8f5c-ebd038bee85e
+<img width="1920" height="1032" alt="05-Assign Different Singers-3" src="https://github.com/user-attachments/assets/8a586c0c-0b93-438a-bdd2-430f06b7d0da" />
 
 ## Workflow Overview
 - Create Song <img width="1920" height="1032" alt="01-Create Song" src="https://github.com/user-attachments/assets/48772d0b-4dee-450c-b7a2-1f7ccf1329d7" />
 - Create Model <img width="1920" height="1032" alt="02-Create Model" src="https://github.com/user-attachments/assets/4d918116-2b6f-4783-9c82-16c94299eba6" />
 - Train Model <img width="1920" height="1032" alt="03-Train Model" src="https://github.com/user-attachments/assets/bdb6c664-39b1-476b-a50c-8f2969d1a73d" />
 - Create AI Cover <img width="1920" height="1032" alt="04-Create AI Cover" src="https://github.com/user-attachments/assets/d3619265-e0c5-466d-9b77-753075681889" />
-- Assign Different Singers <img width="1920" height="1032" alt="05-Assign Different Singers" src="https://github.com/user-attachments/assets/38b5672e-25fe-4b6f-adc7-78641672e513" />
+- Assign Different Singers <img width="1920" height="1032" alt="05-Assign Different Singers-3" src="https://github.com/user-attachments/assets/8a586c0c-0b93-438a-bdd2-430f06b7d0da" />
 - Runtime Manager <img width="1920" height="1032" alt="06-Runtime Manager" src="https://github.com/user-attachments/assets/364cc465-2833-4256-b4ad-a44cb18597d8" />
 
 ---
